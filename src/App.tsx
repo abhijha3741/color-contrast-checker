@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react'
 import { useContrastChecker } from './hooks/useContrastChecker'
 import ColorInput from './components/ColorInput'
 import SwapButton from './components/SwapButton'
@@ -62,6 +63,7 @@ export default function App() {
       </main>
 
       <CTABanner />
+      <Analytics />
     </div>
   )
 }
