@@ -2,7 +2,7 @@
 
 A free, real-time **WCAG 2.1** color contrast checker built with React, TypeScript, and Vite. Enter any Hex, RGB, or HSL color pair and instantly see AA & AAA pass/fail status for normal text, large text, and UI components.
 
-🔗 **Live:** [contrast.prolific.studio](https://contrast.prolific.studio/)
+🔗 **Live:** [contrast.smartroots.us](https://contrast.smartroots.us/)
 
 ---
 
@@ -90,7 +90,7 @@ color-contrast-checker/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/prolific-studio/color-contrast-checker.git
+git clone https://github.com/smartroots/color-contrast-checker.git
 cd color-contrast-checker
 
 # 2. Install dependencies
@@ -186,4 +186,4 @@ The project is configured for **Vercel** out of the box.
 
 ## 📄 License
 
-This project is private. All rights reserved by [Prolific Studio](https://prolific.studio).
+This project is private. All rights reserved by [Smartroots](https://smartroots.us/).

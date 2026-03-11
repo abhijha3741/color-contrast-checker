@@ -11,7 +11,7 @@ export default function CTABanner() {
         Our team reviews your entire product against WCAG 2.1 and delivers a prioritised fix list.
       </p>
       <a
-        href="https://prolific.studio/contact"
+        href="https://www.smartroots.us/contact-us/"
         className="mt-5 inline-block bg-white text-indigo-600 font-semibold px-6 py-2.5
           rounded-full text-sm hover:bg-indigo-50 transition"
         target="_blank"
